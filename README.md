@@ -25,9 +25,9 @@ The data used for this project was provided by the facilitator (Mr Muhsin H.I)
 The data was checked for entry errors and missing information. A column was created for Transaction category to help in the achievement of the objectives earlier set out.
 
 ---
-### REGIONAL SALES TREND
+### REGIONAL REVENUE TREND
 ---
-The data was 
+The North East Region generated the highest revenue, this is closely followed by the Southwest region while the North central had the least revenue generation.
 
 
 ```SQL
