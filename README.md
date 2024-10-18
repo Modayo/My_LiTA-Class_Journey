@@ -1,13 +1,17 @@
 # My_LiTA-Class_Journey
 A documentation of my Data Analysis Journey with Ladies in Tech Africa
 
-### Project Title: Microsoft Excel
+### Project Title: REVENUE TREND OF ID & CO COMPANY LTD
 ---
-This Project documents the different stages of my Excel learning with IncubatorHub. The facilitator for this part of the project was Mr Muhsin
+The aim of this project is to 
+  -  identify the trend of revenue generation of the various branches of the company which were located in differnt region of the country
+  -  determine the best selling product vis-a-viz the revenue generated.
+  -  determine the region with the most sales and highest revenue.
+  -  draw necessary useful insights from the data
 
 ### Data Source
 ---
-The data used for this project was provided by the facilitator
+The data used for this project was provided by the facilitator (Mr Muhsin H.I)
 
 ### Tools used
 ---
@@ -16,8 +20,15 @@ The data used for this project was provided by the facilitator
   2. For Analysis
   3. For Data Visualization
  
-### Data Cleaning and Prepartions
+### Data Cleaning and Preparations
 ---
+The data was checked for entry errors and missing information. A column was created for Transaction category to help in the achievement of the objectives earlier set out.
+
+---
+### REGIONAL SALES TREND
+---
+The data was 
+
 
 ```SQL
 select * from Employee.
