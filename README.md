@@ -25,6 +25,17 @@ The data used for this project was provided by the facilitator (Mr Muhsin H.I)
 The data was checked for entry errors and missing information. A column was created for Transaction category to help in the achievement of the objectives earlier set out.
 
 ---
+##EXPLORATORY DATA ANALYSIS
+-  REGIONAL REVENUE TREND
+  - SALES VOLUME
+  - REVENUE GENERATION
+-  MARKET TREND
+  -  ANALYSIS BY LINE OF BUSINESS
+    -  BY SALES VOLUME
+    -  BY REVENUE GENERATION
+  -  TOP PERFORMING MARKETS
+  -  LEAST PERFORMING MARKETS
+---
 ### REGIONAL REVENUE TREND
 ---
 To understand the revenue trend by region, the volume of sales as well as the total revenue generated were compared. The total sales volume was 786,678 and this generated a total revenue of N73.03bn
