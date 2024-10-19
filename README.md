@@ -29,6 +29,8 @@ The data was checked for entry errors and missing information. A column was crea
 ---
 The North East Region generated the highest revenue, this is closely followed by the Southwest region while the North central had the least revenue generation.
 
+![image](https://github.com/user-attachments/assets/fc4e26fe-6d9e-4431-a171-14170a1445c1)
+
 https://github.com/Modayo/My_LiTA-Class_Journey/blob/main/Total%20Revenue%20by%20Region.png
 
 
